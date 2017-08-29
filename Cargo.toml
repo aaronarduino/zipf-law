@@ -1,0 +1,7 @@
+[package]
+name = "zipf-law"
+version = "0.1.0"
+authors = ["Aaron <aarona.arduino@gmail.com>"]
+
+[dependencies]
+regex = "0.2"
